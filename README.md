@@ -11,6 +11,10 @@
   - [Zest For Ride - Social media web app](https://github.com/kbogar/zestforride)
 - <b>Full Stack Website (Bootstrap, Django, Python, CSS3, HTML5)</b>
   - [Classic Garage - Full-stack mobile-first website](https://github.com/kbogar/classic-garage)
+- <b>Python terminal game (Python, GitPod, Heroku)</b>
+  - [Hangman - Simple word guessing game](https://github.com/kbogar/hangman)
+- <b>Simple board game, website (JavaScript, HTML5, CSS3)</b>
+  - [Tic-Tac-Toe](https://github.com/kbogar/P2-tic-tac-toe)
 
 
 <h2> 🤳 Connect with me:</h2>
