@@ -7,7 +7,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- 
+- <b>Full Stack Web App (React, JavaScript, Django, Python, CSS3, HTML5)</b>
+  - [Zest For Ride - Social media web app](https://github.com/kbogar/zestforride)
+- <b>Full Stack Website (Bootstrap, Django, Python, CSS3, HTML5)</b>
+  - [Classic Garage - Full-stack mobile-first website](https://github.com/kbogar/classic-garage)
 
 
 <h2> 🤳 Connect with me:</h2>
