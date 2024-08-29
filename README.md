@@ -23,7 +23,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 
+- [Conducted a vulnerability assessment report](https://github.com/kbogar/vulnerability-assessment-report)
 -
 
 <h2>👨‍💻 Software Development Projects:</h2>
