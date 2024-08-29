@@ -6,17 +6,26 @@ Aspiring IT/Cybersecurity professional & Junior Python developer.
 I have a strong passion for technology and enjoy exploring new tools.
 </div>
 
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning about Cybersecurity, Linux
-- 👀 I’m interested in Python
-- 🤔 I’m looking for an entry-level job
-- 🔥 One is never too old to learn.
+<br>
 
-<h2>Connect with me:</h2>
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning about Cybersecurity, Python
+- 👀 I’m looking for opportunities to work in Tech industry
+- 🤔 Beginner mindset (**open to learning**)
+- ⚡ One is never too old to learn.
+
+<br>
+
+<h2>👨‍💻 Connect with me:</h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krisztian-bogar/)
 
-<hr>
+
+<h2>👨‍💻 Certifications:</h2>
+
+- [Google Cybersecurity Certificate](https://coursera.org/share/b8efa9197f92be6ba9ea378a222bbbbc)
+- [Diploma in Full Stack Software Development](https://www.credential.net/a0db51e4-f78a-4fee-90a8-a402263419b3#gs.ebwozf)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - 
