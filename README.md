@@ -7,13 +7,10 @@ I have a strong passion for technology and enjoy exploring new tools.
 </div>
 
 - 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning about cybersecurity, Linux
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Cybersecurity, Linux
+- 👀 I’m interested in Python
 - 🤔 I’m looking for an entry-level job
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔥 One is never too old to learn.
 
 <h2>Connect with me:</h2>
 
