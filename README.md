@@ -16,11 +16,6 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 <br>
 
-<h2>👨‍💻 Connect with me:</h2>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krisztian-bogar/)
-
-
 <h2>👨‍💻 Certifications:</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/b8efa9197f92be6ba9ea378a222bbbbc)
@@ -42,7 +37,9 @@ I have a strong passion for technology and enjoy exploring new tools.
 - <b>Simple board game, website (JavaScript, HTML5, CSS3)</b>
   - [Tic-Tac-Toe](https://github.com/kbogar/P2-tic-tac-toe)
 
+<h2>👨‍💻 Connect with me:</h2>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krisztian-bogar/)
 
 
 
