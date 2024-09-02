@@ -10,7 +10,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning about Cybersecurity, Python
-- 👀 I’m looking for opportunities to work in Tech industry
+- 👀 I’m looking for opportunities to work in the Tech industry
 - 🤔 Beginner mindset (**open to learning**)
 - ⚡ One is never too old to learn.
 
@@ -24,7 +24,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Conducted a vulnerability assessment report](https://github.com/kbogar/vulnerability-assessment-report)
--
+- [Reviewed and documented a security incident using incident handler`s journal](https://github.com/kbogar/incident-handlers-journal)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
