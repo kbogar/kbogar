@@ -25,6 +25,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 - [Conducted a vulnerability assessment report](https://github.com/kbogar/vulnerability-assessment-report)
 - [Reviewed and documented a security incident using incident handler`s journal](https://github.com/kbogar/incident-handlers-journal)
+- [Created a network incident report using the NIST CSF framework](https://github.com/kbogar/network-incident-report)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
