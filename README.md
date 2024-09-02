@@ -23,6 +23,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
+- [Used SQL filters to retrieve records from different datasets and investigate the potential security issues](https://github.com/kbogar/apply-filters-sql)
 - [Conducted a vulnerability assessment report](https://github.com/kbogar/vulnerability-assessment-report)
 - [Reviewed and documented a security incident using incident handler`s journal](https://github.com/kbogar/incident-handlers-journal)
 - [Created a network incident report using the NIST CSF framework](https://github.com/kbogar/network-incident-report)
