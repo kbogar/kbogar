@@ -24,7 +24,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
 - [Updated file permissions in Linux](https://github.com/kbogar/linux-file-permission)
-- [Updated a file through Python algorithm](https://github.com/kbogar/update-file-python)
+- [Created a Python algorithm that automates the process of the file update](https://github.com/kbogar/update-file-python)
 - [Applied SQL filters to retrieve records from different datasets and investigate the potential security issues](https://github.com/kbogar/apply-filters-sql)
 - [Conducted a vulnerability assessment report](https://github.com/kbogar/vulnerability-assessment-report)
 - [Reviewed and documented a security incident using incident handler`s journal](https://github.com/kbogar/incident-handlers-journal)
