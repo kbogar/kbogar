@@ -18,7 +18,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Google Cybersecurity Certificate](https://coursera.org/share/b8efa9197f92be6ba9ea378a222bbbbc)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/b8efa9197f92be6ba9ea378a222bbbbc)
 - [Diploma in Full Stack Software Development](https://www.credential.net/a0db51e4-f78a-4fee-90a8-a402263419b3#gs.ebwozf)
 
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
