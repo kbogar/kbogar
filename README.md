@@ -1,7 +1,5 @@
 <div align="center">
 <h1>Hi there, my name is Krisztian 👋</h1>
-  
-Aspiring IT/Cybersecurity professional & Junior Python developer.
 
 I have a strong passion for technology and enjoy exploring new tools.
 </div>
@@ -9,7 +7,7 @@ I have a strong passion for technology and enjoy exploring new tools.
 <br>
 
 - 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning about Cybersecurity, Python
+- 🌱 I’m currently learning about C#, .Net
 - 👀 I’m looking for opportunities to work in the Tech industry
 - 🤔 Beginner mindset (**open to learning**)
 - ⚡ One is never too old to learn.
